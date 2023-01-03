@@ -5,5 +5,7 @@
  "parent": "index",
  "url": "/wiki/spring-security",
  "updated": "2022-12-28 17:51:00 +0900",
- "children": []
+ "children": [
+  "spring-security/authentication-principal"
+ ]
 }
