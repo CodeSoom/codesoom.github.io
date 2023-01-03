@@ -7,7 +7,7 @@ author  : 한윤석
 tag     : 
 toc     : true
 public  : true
-parent  : scrum
+parent  : spring-security
 latex   : false
 ---
 * TOC
