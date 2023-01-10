@@ -1,0 +1,11 @@
+{
+ "type": "wiki",
+ "title": "코드숨 책 스터디 모음",
+ "summary": "",
+ "parent": "index",
+ "url": "/wiki/book-study",
+ "updated": "2023-01-10 16:00:00 +0900",
+ "children": [
+  "get-your-hands-dirty-on-clean-architecture"
+ ]
+}

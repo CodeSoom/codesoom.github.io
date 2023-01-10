@@ -1,0 +1,11 @@
+{
+ "type": "wiki",
+ "title": "만들면서 배우는 클린 아키텍처 책 스터디",
+ "summary": "",
+ "parent": "book-study",
+ "url": "/wiki/get-your-hands-dirty-on-clean-architecture",
+ "updated": "2023-01-10 16:01:00 +0900",
+ "children": [
+  "get-your-hands-dirty-on-clean-architecture/1"
+ ]
+}
