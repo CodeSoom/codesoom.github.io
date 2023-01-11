@@ -6,6 +6,7 @@
  "url": "/wiki/javascript",
  "updated": "2022-11-06 00:00:00 +0900",
  "children": [
-  "javascript/module"
+  "javascript/module",
+  "javascript/string"
  ]
 }
